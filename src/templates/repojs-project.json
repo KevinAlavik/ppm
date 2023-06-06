@@ -1,0 +1,8 @@
+{
+  "struct": {
+    "src": {
+      "src-file": "index.js"
+    }
+  },
+  "initCmds": ["npm init -y"]
+}
